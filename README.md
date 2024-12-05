@@ -1,2 +1,2 @@
 # lane_detection
-OpenCV Lane Detection using Python
+The goal of this project is to develop a machine learning-based lane detection system capable of detecting road lane markings in diverse conditions (e.g., lighting, weather). This model can be integrated into autonomous driving systems for safer navigation and road analysis. It uses Convolutional Neural Networks (CNNs) for feature extraction and lane boundary classification, with additional image processing techniques like Hough Transform for accurate lane detection.
